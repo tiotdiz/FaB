@@ -90,4 +90,4 @@ INSERT INTO `t_vehicle` VALUES ('4', 'VOLVO', '1.00');
 INSERT INTO `t_vehicle` VALUES ('5', '大众', '234.00');
 INSERT INTO `t_vehicle` VALUES ('6', '皇冠', '23.00');
 INSERT INTO `t_vehicle` VALUES ('7', '法拉利', '0.00');
-INSERT INTO `t_vehicle` VALUES ('8', '华晨宝马', '8.00');
+INSERT INTO `t_vehicle` VALUES ('8', '华晨宝马', '80.00');
